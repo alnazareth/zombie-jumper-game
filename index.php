@@ -100,6 +100,15 @@
             <p>Sistema de partículas al saltar - ¡Agregado hoy!</p>
             <p><small>Commit: git commit -m "feat: sistema de partículas al saltar"</small></p>
         </div> <p> </p>
+        <!-- SISTEMA DE PUNTUACIÓN - EN DESARROLLO (dev) -->
+<div style="margin-top: 20px; padding: 15px; background: #2d3436; border-radius: 8px; border: 2px dashed #ffeaa7;">
+    <h4 style="color: #ffeaa7;">🏆 Sistema de Puntuación (Nuevo en dev)</h4>
+    <p><strong>Puntuación actual: <span style="color: #00cec9; font-size: 24px;">1,250</span></strong></p>
+    <p>🔸 +10 puntos por zombie evitado</p>
+    <p>🔸 +50 puntos por combo de 5 saltos</p>
+    <p>🔸 Highscore: 2,800 puntos</p>
+    <p><small><em>Commit: "feat: sistema de puntuación con combos"</em></small></p>
+</div>
     </div>
 </div>
 
